@@ -5,6 +5,7 @@ I'm Seok Hee
 - 📫 How to reach me:
   - mail : cycloevan97@gmail.com
   - InstaID : [97shjang](https://www.instagram.com/97shjang/)
+  - LinkedIn: [LinkedIn](https://www.linkedin.com/in/seokhee-jang-73142426a/)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seok-hee97)](https://github.com/깃허브아이디/github-readme-stats)
