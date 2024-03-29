@@ -8,13 +8,9 @@ I'm Seok Hee
   - LinkedIn: [LinkedIn](https://www.linkedin.com/in/seokhee-jang-73142426a/)
   - resume: [resume](https://github.com/seok-hee97/resume)
 
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seok-hee97)](https://github.com/깃허브아이디/github-readme-stats)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seok-hee97)](https://github.com/깃허브아이디/github-readme-stats)
-
-
 
 
 ## **STUDY**
@@ -35,12 +31,10 @@ I'm Seok Hee
 - <https://github.com/seok-hee97/error-back-propagation>
 - <https://github.com/seok-hee97/Sagemaker-Tutorials>
 - <https://github.com/seok-hee97/LangChain-GenAI-Tutorial>
-
 - <https://github.com/seok-hee97/hgmldl>
 - <https://github.com/seok-hee97/FCC-MachineLearning-with-Python>
 - <https://github.com/seok-hee97/ml-at-work>
 - <https://github.com/seok-hee97/PyTorchNLPBook>
-
 
 ### **Data Analysis**
 - <https://github.com/seok-hee97/Data-Analysis-with-Python>
