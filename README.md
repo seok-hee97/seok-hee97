@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Seok Hee 
-- 🌱 I’m currently learning programing
+- 🌱 I’m currently learning programming
 - 📫 How to reach me:
   - mail : cycloevan97@gmail.com
   - InstaID : [97shjang](https://www.instagram.com/97shjang/)
