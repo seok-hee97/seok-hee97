@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Seok Hee 
+I'm SeokHee 
 - 🌱 I’m currently learning programming
 - 📫 How to reach me:
   - mail : cycloevan97@gmail.com
