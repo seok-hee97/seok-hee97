@@ -10,8 +10,8 @@
 
 ### **Summary**
 
-AI Developer and ML Researcher with 3+ years of experience in cybersecurity.  
-Specialized in malware detection, LLM fine-tuning, and building end-to-end ML systems.  
+- AI Developer and ML Researcher with 3+ years of experience in cybersecurity.  
+- Specialized in malware detection, LLM fine-tuning, and building end-to-end ML systems.  
 
 ---
 
