@@ -15,14 +15,13 @@
 
 ---
 
-### **Skills**
-
-- **Languages**: Python, C, C++, SQL (MySQL, PostgreSQL, MongoDB), Bash
-- **ML / Deep Learning**: PyTorch, TensorFlow, Scikit-Learn, LightGBM, TabNet, Transformers, Pandas, NumPy, PySpark
-- **LLM / NLP**: BERT, Llama, Gemma, LangChain, LangGraph, FAISS, Fine-tuning (QLoRA, DPO, SFT), GGUF / Llama.cpp
-- **Security**: PE Analysis, Static/Dynamic Analysis, Ghidra, IDA, YARA, CAPE, EMBER, Threat Intelligence
-- **Web / Backend**: FastAPI, Django, Flask, React, TypeScript, Elasticsearch, Nginx
-- **Tools**: Docker, AWS (S3, EC2, SageMaker, Lambda, CloudFormation), Git
+### **Core Skills**
+- **Languages**: Python, C/C++, SQL, Bash
+- **ML / Deep Learning**: PyTorch, TensorFlow, Scikit-Learn, PySpark
+- **LLM / NLP**: HuggingFace Transformers, BERT, PEFT, LangChain/LangGraph, RAG
+- **Security / RE**: PE·Malware Analysis, Ghidra, IDA, Angr, Capstone, YARA
+- **Web / Serving**: FastAPI, Flask, Django, Streamlit
+- **Cloud / DevOps**: AWS (EC2/S3/Lambda/SageMaker), Docker, Git, Elasticsearch
 
 ---
 
